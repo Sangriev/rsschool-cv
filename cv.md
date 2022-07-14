@@ -4,3 +4,5 @@
 
 ### Email Sangriev1@gmail.com
 
+#### Skill JavaScript
+
